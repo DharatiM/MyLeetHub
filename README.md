@@ -93,3 +93,15 @@ If you're also on a coding journey, feel free to connect and learn together!
 **Happy Coding! 💙**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/DharatiM/MyLeetHub/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/DharatiM/MyLeetHub/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
