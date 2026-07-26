@@ -110,8 +110,33 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharatiM/MyLeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DharatiM/MyLeetHub/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
