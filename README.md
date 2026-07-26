@@ -110,4 +110,8 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharatiM/MyLeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DharatiM/MyLeetHub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
