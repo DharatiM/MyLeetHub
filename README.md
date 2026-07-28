@@ -120,6 +120,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | [0175-combine-two-tables](https://github.com/DharatiM/MyLeetHub/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/DharatiM/MyLeetHub/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/DharatiM/MyLeetHub/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0620-not-boring-movies](https://github.com/DharatiM/MyLeetHub/tree/master/0620-not-boring-movies) |
 ## Hash Table
 |  |
 | ------- |
