@@ -100,6 +100,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharatiM/MyLeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DharatiM/MyLeetHub/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 ## Hash Table
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -141,6 +143,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 ## Counting
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -154,8 +157,13 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DharatiM/MyLeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DharatiM/MyLeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
