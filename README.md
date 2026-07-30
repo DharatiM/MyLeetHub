@@ -182,4 +182,8 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DharatiM/MyLeetHub/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DharatiM/MyLeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
