@@ -157,6 +157,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/DharatiM/MyLeetHub/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DharatiM/MyLeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DharatiM/MyLeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
