@@ -1,0 +1,20 @@
+var smallestNumber = function(n, t) {
+
+    function digitProduct(num) {
+        let product = 1;
+
+        while (num > 0) {
+            product *= num % 10;
+            num = Math.floor(num / 10);
+        }
+
+        return product;
+    }
+
+    while (true) {
+        if (digitProduct(n) % t === 0) {
+            return n;
+        }
+        n++;
+    }
+};
