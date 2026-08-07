@@ -120,6 +120,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DharatiM/MyLeetHub/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/DharatiM/MyLeetHub/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharatiM/MyLeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DharatiM/MyLeetHub/tree/master/0877-stone-game) |
@@ -141,6 +142,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DharatiM/MyLeetHub/tree/master/0036-valid-sudoku) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/DharatiM/MyLeetHub/tree/master/3731-find-missing-elements) |
@@ -233,4 +235,8 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DharatiM/MyLeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/DharatiM/MyLeetHub/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
