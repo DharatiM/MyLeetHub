@@ -179,6 +179,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | [0058-length-of-last-word](https://github.com/DharatiM/MyLeetHub/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DharatiM/MyLeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DharatiM/MyLeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DharatiM/MyLeetHub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -194,6 +195,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DharatiM/MyLeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DharatiM/MyLeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | [0486-predict-the-winner](https://github.com/DharatiM/MyLeetHub/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DharatiM/MyLeetHub/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/DharatiM/MyLeetHub/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DharatiM/MyLeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -239,4 +242,8 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DharatiM/MyLeetHub/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DharatiM/MyLeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
