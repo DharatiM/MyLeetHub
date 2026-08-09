@@ -139,6 +139,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | [0182-duplicate-emails](https://github.com/DharatiM/MyLeetHub/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/DharatiM/MyLeetHub/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/DharatiM/MyLeetHub/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/DharatiM/MyLeetHub/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/DharatiM/MyLeetHub/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/DharatiM/MyLeetHub/tree/master/0620-not-boring-movies) |
 ## Hash Table
