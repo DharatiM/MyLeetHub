@@ -131,6 +131,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 | [1140-stone-game-ii](https://github.com/DharatiM/MyLeetHub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DharatiM/MyLeetHub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DharatiM/MyLeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DharatiM/MyLeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DharatiM/MyLeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/DharatiM/MyLeetHub/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DharatiM/MyLeetHub/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -150,6 +151,7 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DharatiM/MyLeetHub/tree/master/0036-valid-sudoku) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DharatiM/MyLeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DharatiM/MyLeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DharatiM/MyLeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -287,4 +289,8 @@ If you're also on a coding journey, feel free to connect and learn together!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DharatiM/MyLeetHub/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DharatiM/MyLeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
